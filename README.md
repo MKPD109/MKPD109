@@ -1,4 +1,3 @@
-👀![Profile Views](https://komarev.com/ghpvc/?username=MKPD109&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -33,5 +32,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=MKPD109&label=Profile%20Views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
