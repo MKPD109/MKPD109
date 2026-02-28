@@ -12,7 +12,7 @@
 
 👨‍💻 All of my projects are available on my [GitHub](https://github.com/MKPD109).
 
-📄 Check out my [CV](https://drive.google.com/file/d/1nC9OvulL4I7MDE0HgE8SdGdojS7yo1bA/view?usp=sharing).
+📄 Check out my [CV](https://drive.google.com/file/d/1PyUt_btdUv23urQz-tnaQp7Npsth9KA6/view?usp=sharing).
 
 ⚡ Fun fact: I'm currently finding a placement year job opportunity... and it is NOT fun 😭😭😭
 
@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-man-98712a388/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pippro123045@gmail.com)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=for-the-badge)![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVidia&logoColor=76B900) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MKPD109&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
