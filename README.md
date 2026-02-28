@@ -1,5 +1,16 @@
-# 💫 About Me:
-🤓 Year 2 Student Studying Computer Science in University of Surrey<br>🔭 I’m currently working on CyberGuard<br>🌱 I’m currently learning CCNA<br>- 👨‍💻 All of my projects are available at [https://github.com/MKPD109](https://github.com/MKPD109)⚡ Fun fact: I am currently finding placement year for my university placement<br>      IT IS NOT FUN FINDING JOB 😭😭😭<br>📄 Know about my experiences [https://drive.google.com/file/d/1nC9OvulL4I7MDE0HgE8SdGdojS7yo1bA/view?usp=sharing](https://drive.google.com/file/d/1nC9OvulL4I7MDE0HgE8SdGdojS7yo1bA/view?usp=sharing)
+💫 **About Me**
+
+🤓 I am a Year 2 Computer Science Student at the University of Surrey.
+
+🔭 I'm currently building **CyberGuard**.
+
+🌱 I'm currently learning **CCNA**.
+
+👨‍💻 All of my projects are available on my [GitHub](https://github.com/MKPD109).
+
+📄 Check out my [cv](https://drive.google.com/file/d/1nC9OvulL4I7MDE0HgE8SdGdojS7yo1bA/view?usp=sharing).
+
+⚡ Fun fact: I'm currently hunting for a placement year... and it is NOT fun 😭😭😭
 
 
 ## 🌐 Socials:
