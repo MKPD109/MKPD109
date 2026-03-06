@@ -3,8 +3,6 @@
 
 💫 **About Me**
 
-🤓 I am a Year 2 Computer Science Student at the University of Surrey.
-
 🔭 I'm currently building [**CyberGuard**](https://github.com/MKPD109/CyberGuard).
 
 🌱 I'm currently learning **CCNA**.
